@@ -4,7 +4,9 @@ A place to track stocks and shares that you own and store all finances all in on
 
 ## Setup
 
-Create a .env file to store all your essential variables
+Create a .env file to store all your essential variables:
+
+TRADING_212_API = ???????????
 
 ### Trading 212 Key
 
